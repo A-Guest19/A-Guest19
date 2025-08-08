@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 Currently working on a LG style Heliboard theme and figuring out GitHub lol
 
 Sorry if I'm too "helpful". That's kinda just my personality ¯\_(ツ)_/¯
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Guest19&show_icons=true&theme=default)
