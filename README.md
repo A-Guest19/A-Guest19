@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 Currently working on a LG style Heliboard theme and figuring out GitHub lol
 
 Sorry if I'm too "helpful". That's kinda just my personality ¯\_(ツ)_/¯
