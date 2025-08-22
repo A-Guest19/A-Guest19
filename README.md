@@ -22,3 +22,9 @@ Sorry if I'm too "helpful". That's kinda just my personality ¯\\_(ツ)_/¯
 ![Profile views](https://komarev.com/ghpvc/?username=A-Guest19&color=blue)
 
 [Visit My Guest Book](https://github.com/A-Guest19/A-Guest19/issues)
+
+<details>
+  <summary>Special Thanks</summary>
+
+  - [fnky](https://github.com/fnky) and his [guest book](https://github.com/fnky/fnky/blob/fnky/LICENSE)
+</details>
