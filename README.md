@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a noob coder, I mainly do HTML, CSS, JS, and JSON. Open-source addict and privacy fiend. I must have OCD for trying to figure out how *everything* works...
+
 Currently working on a LG style Heliboard theme and figuring out GitHub lol
 
-Sorry if I'm too "helpful". That's kinda just my personality ¯\_(ツ)_/¯
+Sorry if I'm too "helpful". That's kinda just my personality ¯\\_(ツ)_/¯
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Guest19&show_icons=true&theme=default)
 ![Profile views](https://komarev.com/ghpvc/?username=A-Guest19&color=blue)
